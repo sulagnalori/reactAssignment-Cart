@@ -1,0 +1,76 @@
+.navbar__header {
+  background-color: black;
+}
+
+.navbar__header_text {
+  font-size: 25px;
+}
+
+.navbar__subText {
+  font-size: 14px;
+  opacity: 0.6;
+}
+.navbar__compnents {
+  margin-top: 0px !important;
+}
+.card__header {
+  border: 1px solid rgb(180, 178, 178);
+  border-radius: 8px;
+}
+.card__header:hover {
+  border-radius: 8px;
+  -webkit-box-shadow: 0px 0px 8px 1px rgba(110, 110, 110, 1);
+  -moz-box-shadow: 0px 0px 8px 1px rgba(110, 110, 110, 1);
+  box-shadow: 0px 0px 8px 1px rgba(110, 110, 110, 1);
+}
+
+.card__image {
+  margin-top: 10px;
+  height: 117px;
+  width: 152px;
+  border-radius: 8px;
+  -webkit-box-shadow: 0px 0px 8px -2px rgba(110, 110, 110, 1);
+  -moz-box-shadow: 0px 0px 8px -2px rgba(110, 110, 110, 1);
+  box-shadow: 0px 0px 8px -2px rgba(110, 110, 110, 1);
+}
+
+.cart__buttons {
+  background: rgb(212, 211, 211);
+  width: 55%;
+  margin-left: 34px;
+  margin-top: -10px;
+  z-index: 2;
+  position: absolute;
+}
+
+.cart__buttons2 {
+  background: white;
+  border: 2px solid rgb(182, 181, 181);
+  width: 120%;
+}
+
+.cart__text {
+  font-size: 14px;
+  font-weight: 600;
+  color: gray;
+}
+
+.subtotal {
+  font-size: 18px;
+  font-weight: 700;
+}
+.subtotal2 {
+  font-size: 14px;
+  color: gray;
+}
+.custom__button {
+  width: 476px;
+  height: 46px;
+  background: #2cb302;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.custom__button:hover {
+  color: white;
+}
